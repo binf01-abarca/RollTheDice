@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RollTheDice</string>
+    <string name="immagine_del_dado">Immagine del dado</string>
 </resources>
